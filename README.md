@@ -15,7 +15,7 @@ This AI-powered chatbot is your one-stop shop for information about any universi
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/SreejaSeethini/university-chatbot.git
-   cd ask-uni-bot
+   cd university-chabot.git
    ```
 
 2. **Install Dependencies:**
